@@ -8,15 +8,15 @@ $ git clone https://github.com/GabrielJSuarez/Micro_Reddit_Microverse_TOD.git
 
 Go to your directory
 
-$ cd micro_reddit
+$ `cd micro_reddit`
 
 Run in terminal [You must have Ruby installed on your system.]
 
-$ ruby bundle install
+$ `ruby bundle install`
 
 the command bundle install is important to install required gem for the game to start. After you finish type:
 
-$ rails server
+$ `rails server`
 
 Open your browser to localhost
 
