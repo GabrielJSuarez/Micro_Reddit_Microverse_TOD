@@ -12,6 +12,7 @@ AllCops:
 
 Layout/LineLength:
   Max: 120
+  Enabled: false
 Metrics/MethodLength:
   Include:
     - "app/controllers/*"
